@@ -1446,5 +1446,4 @@ $lang = array_merge($lang, array(
 	// The default dateformat which will be used on new installs in this language
 	// Translators should change this if a the usual date format is different
 	'default_dateformat'	=> 'D, d M Y, H:i', // Mié, 10 Mar 2010, 23:26
-
 ));

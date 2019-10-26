@@ -39,7 +39,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'ACTION'				=> 'Acción',
 	'ACTION_NOTE'			=> 'Acción/Nota',
-	'ADD_FEEDBACK'			=> 'Añadir feedback',
+	'ADD_FEEDBACK'			=> 'Añadir comentarios',
 	'ADD_FEEDBACK_EXPLAIN'	=> 'Si quieres enviar un informe, por favor completa el siguiente formulario. Emplea solo texto plano; HTML, BBCode, etc. no está permitido.',
 	'ADD_WARNING'			=> 'Añadir advertencia',
 	'ADD_WARNING_EXPLAIN'	=> 'Para enviar una advertencia a estos usuarios, por favor completa el siguiente formulario. Emplea solo texto plano; HTML, BBCode, etc. no está permitido.',
@@ -96,7 +96,7 @@ $lang = array_merge($lang, array(
 	'EMPTY_REPORT'					=> 'Tienes que introducir una descripción cuando seleccionas esta razón',
 	'EMPTY_TOPICS_REMOVED_WARNING'	=> 'Por favor, observa que uno o varios temas han sido eliminados de la base de datos porque estaban vacíos',
 
-	'FEEDBACK'				=> 'Feedback',
+	'FEEDBACK'				=> 'Comentarios',
 	'FORK'					=> 'Copiar',
 	'FORK_TOPIC'			=> 'Copiar tema',
 	'FORK_TOPIC_CONFIRM'	=> '¿Estás seguro de querer copiar el tema?',

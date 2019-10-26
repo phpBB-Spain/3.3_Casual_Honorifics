@@ -600,7 +600,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_TOPIC_APPROVED'		=> '<strong>Tema aprobado</strong><br />» %s',
 	'LOG_TOPIC_RESTORED'		=> '<strong>Tema restaurado</strong><br />» %s',
-    	'LOG_TOPIC_DISAPPROVED'		=> '<strong>Tema desaprobado “%1$s” escrito por “%3$s” por la siguiente razón</strong><br />» %2$s',
+    'LOG_TOPIC_DISAPPROVED'		=> '<strong>Tema desaprobado “%1$s” escrito por “%3$s” por la siguiente razón</strong><br />» %2$s',
 	'LOG_TOPIC_RESYNC'			=> '<strong>Resincronizados contadores de temas</strong><br />» %s',
 	'LOG_TOPIC_TYPE_CHANGED'	=> '<strong>Cambiado: tipo de tema</strong><br />» %s',
 	'LOG_UNLOCK'				=> '<strong>Abierto: tema</strong><br />» %s',
@@ -707,7 +707,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_PRUNE'					=> '<strong>Purgados: foros</strong><br />» %s',
 	'LOG_AUTO_PRUNE'			=> '<strong>Auto-purgados: foros</strong><br />» %s',
-    	'LOG_PRUNE_SHADOW'		=> '<strong>Auto-purgados: temas sombreados</strong><br />» %s',
+    'LOG_PRUNE_SHADOW'		=> '<strong>Auto-purgados: temas sombreados</strong><br />» %s',
 	'LOG_PRUNE_USER_DEAC'		=> '<strong>Desactivados: usuarios</strong><br />» %s',
 	'LOG_PRUNE_USER_DEL_DEL'	=> '<strong>Usuarios purgados y mensajes borrados</strong><br />» %s',
 	'LOG_PRUNE_USER_DEL_ANON'	=> '<strong>Usuarios purgados y mensajes retenidos</strong><br />» %s',
