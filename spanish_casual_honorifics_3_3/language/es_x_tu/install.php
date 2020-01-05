@@ -103,7 +103,7 @@ $lang = array_merge($lang, array(
 
 	// Server requirements
 	'PHP_VERSION_REQD'					=> 'Versión PHP',
-	'PHP_VERSION_REQD_EXPLAIN'			=> 'phpBB requiere la versión 7.1.0 de PHP o superior.',
+	'PHP_VERSION_REQD_EXPLAIN'			=> 'phpBB requiere la versión 7.1.3 de PHP o superior.',
 	'PHP_GETIMAGESIZE_SUPPORT'			=> 'La función PHP getimagesize() es requerida',
 	'PHP_GETIMAGESIZE_SUPPORT_EXPLAIN'	=> 'Para que phpBB funcione correctamente, la función getimagesize debe estar disponible.',
 	'PCRE_UTF_SUPPORT'					=> 'Soporte PCRE UTF-8',
@@ -368,7 +368,7 @@ $lang = array_merge($lang, array(
 			<li>Siga los pasos para actualizar la base de datos y deje que se ejecute hasta su finalización.</li>
 			<li>Usando FTP o SSH borre la carpeta <code class="inline">/install</code> de la raíz de su foro instalado.<br><br></li>
 		</ol>
-		
+
 		<p>Ahora tiene un nuevo foro actualizado que contiene todos sus usuarios y mensajes. Tareas de seguimiento:</p>
 		<ul style="margin-left: 20px; font-size: 1.1em;">
 			<li>Actualiza tu paquete de lenguaje</li>
@@ -562,13 +562,13 @@ $lang = array_merge($lang, array(
 
 	// Finish conversion
 	'CONVERT_COMPLETE'			=> 'Conversión completada',
-	'CONVERT_COMPLETE_EXPLAIN'	=> 'Has convertido tu sitio a phpBB 3.3 correctamente. Ahora puedes identificarte y <a href="../">acceder a tu sitio</a>. Recuerda que hay ayuda disponible en línea para usar phpBB3 vía <a href="https://www.phpbb.com/support/docs/en/3.2/ug/">Documentación</a>, y los <a href="https://www.phpbb.com/community/viewforum.php?f=466">foros de soporte</a> (ambos en inglés).',
+	'CONVERT_COMPLETE_EXPLAIN'	=> 'Has convertido tu sitio a phpBB 3.3 correctamente. Ahora puedes identificarte y <a href="../">acceder a tu sitio</a>. Recuerda que hay ayuda disponible en línea para usar phpBB3 vía <a href="https://www.phpbb.com/support/docs/en/3.3/ug/">Documentación</a>, y los <a href="https://www.phpbb.com/community/viewforum.php?f=661">foros de soporte</a> (ambos en inglés).',
 
-	'CONV_ERROR_ATTACH_FTP_DIR'			=> 'El FTP para subir adjuntos está habilitado en el viejo sitio. Por favor, deshabilite esta opción de FTP y asegúrese de especificar una capeta válida para subir, luego copia todos los adjuntos a esta nueva carpeta. Una vez hecho esto, reinicia el conversor.',
+	'CONV_ERROR_ATTACH_FTP_DIR'			=> 'El FTP para subir adjuntos está habilitado en el viejo sitio. Por favor, deshabilita esta opción de FTP y asegúrate de especificar una carpeta válida para subir, luego copia todos los adjuntos a esta nueva carpeta. Una vez hecho esto, reinicia el conversor.',
 	'CONV_ERROR_CONFIG_EMPTY'			=> 'No hay información de conversión disponible para la misma.',
 	'CONV_ERROR_FORUM_ACCESS'			=> 'Imposible obtener información de acceso al foro.',
 	'CONV_ERROR_GET_CATEGORIES'			=> 'Imposible obtener las categorías.',
-	'CONV_ERROR_GET_CONFIG'				=> 'No se puede recuperar la configuración de su foro.',
+	'CONV_ERROR_GET_CONFIG'				=> 'No se puede recuperar la configuración de tu foro.',
 	'CONV_ERROR_COULD_NOT_READ'			=> 'Imposible acceder/leer “%s”.',
 	'CONV_ERROR_GROUP_ACCESS'			=> 'Imposible obtener información de autentificación de grupo.',
 	'CONV_ERROR_INCONSISTENT_GROUPS'	=> 'Inconsistencia en tabla de grupos detectada en add_bots() - es necesario agregar manualmente todos los grupos especiales.',
