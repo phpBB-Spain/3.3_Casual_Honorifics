@@ -273,10 +273,10 @@ $lang = array_merge($lang, array(
 	'FILESYSTEM_CANNOT_COPY_FILES'		=> 'Incapaz de copiar archivos',
 	'FILESYSTEM_CANNOT_CREATE_SYMLINK'	=> 'Incapaz de crear un enlace simbólico',
 	'FILESYSTEM_CANNOT_DELETE_FILES'	=> 'Incapaz de borrar los archivos del sistema',
-	'FILESYSTEM_CANNOT_DUMP_FILE'		=> 'Incapaz de volvar el archivo',
+	'FILESYSTEM_CANNOT_DUMP_FILE'		=> 'Incapaz de volvar en el archivo',
 	'FILESYSTEM_CANNOT_MIRROR_DIRECTORY'	=> 'Incapaz de reflejar el directorio',
 	'FILESYSTEM_CANNOT_RENAME_FILE'	=> 'Incapaz de renombrar un archivo del sistema',
-	'FILESYSTEM_CANNOT_TOUCH_FILES'	=> 'Incapaz de determinar si el archivo existe',
+	'FILESYSTEM_CANNOT_TOUCH_FILES'	=> 'Incapaz de crear el archivo o cambiar las marcas de tiempo del archivo',
 	
 	'FTP_FSOCK_HOST'	=> 'Servidor FTP Fsock',
 	'FTP_FSOCK_HOST_EXPLAIN'	=> 'Servidor FTP Fsock empleado para conectar a tu sitio',
