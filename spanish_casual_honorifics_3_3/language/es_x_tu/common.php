@@ -272,6 +272,7 @@ $lang = array_merge($lang, array(
 	'FILESYSTEM_CANNOT_CHANGE_FILE_PERMISSIONS'	=> 'Incapaz de cambiar los permisos de archivos',
 	'FILESYSTEM_CANNOT_COPY_FILES'		=> 'Incapaz de copiar archivos',
 	'FILESYSTEM_CANNOT_CREATE_SYMLINK'	=> 'Incapaz de crear un enlace simbólico',
+	'FILESYSTEM_CANNOT_CREATE_DIRECTORY'		=> 'Incapaz de crear un directorio',
 	'FILESYSTEM_CANNOT_DELETE_FILES'	=> 'Incapaz de borrar los archivos del sistema',
 	'FILESYSTEM_CANNOT_DUMP_FILE'		=> 'Incapaz de volvar en el archivo',
 	'FILESYSTEM_CANNOT_MIRROR_DIRECTORY'	=> 'Incapaz de reflejar el directorio',
