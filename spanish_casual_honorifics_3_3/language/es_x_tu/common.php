@@ -168,6 +168,7 @@ $lang = array_merge($lang, array(
 	),
 	'COLLAPSE_VIEW'			=> 'Contraer vista',
 	'CLOSE_WINDOW'			=> 'Cerrar ventana',
+	'CODE'					=> 'Código',
 	'COLOUR_SWATCH'			=> 'Paleta de Colores',
 	'COLON'					=> ':',
 	'COMMA_SEPARATOR'		=> ', ',	// Comma used to join lists into a single string, use localised comma if appropriate, eg: Ideographic or Arabic
@@ -205,6 +206,7 @@ $lang = array_merge($lang, array(
 	'DISPLAY_MESSAGES'		=> 'Mostrar mensajes previos',
 	'DISPLAY_POSTS'			=> 'Mostrar mensajes previos',
 	'DISPLAY_TOPICS'		=> 'Mostrar temas previos',
+	'DOMAIN_NO_MX_RECORD_EMAIL'	=> 'El dominio del email ingresado no tiene un registro MX válido.',
 	'DOWNLOADED'			=> 'Descargado',
 	'DOWNLOADING_FILE'		=> 'Descargando archivo',
 	'DOWNLOAD_COUNTS'		=> array(
@@ -309,7 +311,6 @@ $lang = array_merge($lang, array(
 	'GB'	=> 'GB',
 	'GIB'	=> 'GiB',
 	'GO'	=> 'Ir',
-	'GOOGLEPLUS'				=> 'Google+',
 	'GOTO_FIRST_POST'			=> 'Ir al primer mensaje',
 	'GOTO_LAST_POST'			=> 'Ir al último mensaje',
 	'GOTO_PAGE'	=> 'Ir a la página',
@@ -618,6 +619,9 @@ $lang = array_merge($lang, array(
     	'POST_UNAPPROVED'		=> 'Este mensaje no ha sido aprobado.',
 	'POST_UNAPPROVED_EXPLAIN'	=> 'Este mensaje no es visible para otros usuarios hasta que haya sido aprobado por un Moderador.',
 	'POWERED_BY'			=> 'Desarrollado por %s',
+
+	'QUOTE'					=> 'Citar',
+
 	'PREVIEW'				=> 'Vista previa',
 	'PREVIOUS'				=> 'Anterior',
 	'PREVIOUS_STEP'			=> 'Anterior',
