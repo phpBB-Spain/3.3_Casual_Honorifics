@@ -140,7 +140,7 @@ $lang = array_merge($lang, array(
 	'VC_REFRESH'            		=> 'Refrescar código de confirmación',
 	'VC_REFRESH_EXPLAIN'      		=> 'Si no puedes leer el código puede pedir uno nuevo haciendo clic en el botón.',
 
-    'CONFIRM_PASSWORD'				=> 'Confirmar contraseña',
+    	'CONFIRM_PASSWORD'				=> 'Confirmar contraseña',
 	'CONFIRM_PASSWORD_EXPLAIN'		=> 'Necesitas confirmar tu contraseña sólo si la has cambiado arriba',
 	'COPPA_BIRTHDAY'				=> 'Para continuar con el proceso de registro, por favor indica cuándo naciste.',
 	'COPPA_COMPLIANCE'				=> 'APPCO (COPPA en inglés) compliance',
@@ -179,7 +179,6 @@ $lang = array_merge($lang, array(
 	'DEMOTE_SELECTED'				=> 'Degradar seleccionado',
 	'DISABLE_CENSORS'				=> 'Habilitar palabras censuradas',
 	'DISPLAY_GALLERY'				=> 'Mostrar galería',
-	'DOMAIN_NO_MX_RECORD_EMAIL'		=> 'El dominio del email ingresado no tiene un registro MX válido.',
 	'DOWNLOADS'						=> 'Descargas',
 	'DRAFTS_DELETED'				=> 'Todos los borradores seleccionados fueron borrados correctamente.',
 	'DRAFTS_EXPLAIN'				=> 'Aquí puedes ver, editar o borrar tus borradores guardados.',
