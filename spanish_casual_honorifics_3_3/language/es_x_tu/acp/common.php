@@ -497,8 +497,8 @@ $lang = array_merge($lang, array(
 	'LOG_ACL_ADD_USER_GLOBAL_A_'		=> '<strong>Añadidos o editados: permisos de Administrador</strong><br />» %s',
 	'LOG_ACL_ADD_GROUP_GLOBAL_A_'		=> '<strong>Añadidos o editados: permisos de grupos de Administradores</strong><br />» %s',
 
-	'LOG_ACL_ADD_MOD_LOCAL_M_'			=> '<strong>Añadidos o editados: Moderadores</strong> para %1$s<br />» %2$s',
-	'LOG_ACL_ADD_FORUM_LOCAL_F_'		=> '<strong>Añadidos o editados: permisos de foros</strong> para %1$s<br />» %2$s',
+	'LOG_ACL_ADD_ADMIN_GLOBAL_A_'		=> '<strong>Añadidos o editados: Administradores</strong><br />» %s',
+	'LOG_ACL_ADD_MOD_GLOBAL_M_'			=> '<strong>Añadidos o editados: Moderadores globales</strong><br />» %s',
 
 	'LOG_ACL_ADD_USER_LOCAL_F_'			=> '<strong>Añadidos o editados: acceso a foro de usuarios</strong> a %1$s<br />» %2$s',
 	'LOG_ACL_ADD_USER_LOCAL_M_'			=> '<strong>Añadidos o editados: acceso a foro de moderadores</strong> a %1$s<br />» %2$s',
