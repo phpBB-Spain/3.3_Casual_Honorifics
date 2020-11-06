@@ -235,6 +235,7 @@ $lang = array_merge($lang, array(
  	'CRON_NO_SUCH_TASK'		=> 'No se pudo encontrar la tarea cron “%s”.',
  	'CRON_NO_TASK'			=> 'No hay tareas cron que necesiten ejecutarse en estos momentos.',
  	'CRON_NO_TASKS'			=> 'No se han podido encontrar tareas cron.',
+	'CSV_INVALID'			=> 'El ajuste “%1$s” separado por comas proporcionado no es válido. Los valores deben estar delimitados solo por comas, no deben contener delimitadores iniciales o finales.',
 	'CURRENT_VERSION'		=> 'Versión actual',
 	
 	'DEACTIVATE'				=> 'Desactivar',
@@ -316,6 +317,7 @@ $lang = array_merge($lang, array(
 
 	'UCP'					=> 'Panel de Control del Usuario',
 	'URL_INVALID'			=> 'La URL proporcionada para la configuración “%1$s” no es válida.',
+	'URL_SCHEME_INVALID'	=> 'El esquema proporcionado “%2$s” en la configuración separada por comas “%1$s” no es válido. El esquema debe comenzar con un carácter latino seguido de caracteres alfanuméricos, guiones o puntos.',
 	'USERNAMES_EXPLAIN'		=> 'Inserte cada nombre de usuario en una línea diferente',
 	'USER_CONTROL_PANEL'	=> 'Panel de Control del Usuario',
 
