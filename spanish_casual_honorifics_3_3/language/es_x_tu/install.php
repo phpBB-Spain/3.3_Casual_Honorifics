@@ -110,6 +110,8 @@ $lang = array_merge($lang, array(
 	'PCRE_UTF_SUPPORT_EXPLAIN'			=> 'phpBB no se ejecutará si la instalación de PHP no está compilado con soporte UTF-8 en la extensión PCRE.',
 	'PHP_JSON_SUPPORT'					=> 'Soporte PHP JSON',
 	'PHP_JSON_SUPPORT_EXPLAIN'			=> 'Para que phpBB funcione correctamente, la extensión PHP JSON debe estar disponible.',
+	'PHP_MBSTRING_SUPPORT'				=> 'Soporte PHP mbstring',
+	'PHP_MBSTRING_SUPPORT_EXPLAIN'		=> 'Para que phpBB funcione correctamente, la extensión PHP mbstring debe estar disponible.',
 	'PHP_XML_SUPPORT'					=> 'Soporte PHP XML/DOM',
 	'PHP_XML_SUPPORT_EXPLAIN'			=> 'Para que phpBB funcione correctamente, la extensión PHP XML/DOM debe estar disponible.',
 	'PHP_SUPPORTED_DB'					=> 'Bases de datos soportadas',
@@ -235,7 +237,7 @@ $lang = array_merge($lang, array(
 	'CONFIG_SITE_DESC'				=> 'Un breve texto para describir su Foro',
 	'CONFIG_SITENAME'				=> 'sudominio.com',
 
-	'DEFAULT_INSTALL_POST'			=> 'Este es un mensaje de ejemplo en su instalación phpBB3. Puede borrar este mensaje, este tema e incluso este foro si quiere, ¡ya que todo parece estar funcionando! Pero es buena idea usar la categoría y el foro creados por defecto para copiar los permisos en los futuros foros a crear. Le simplificará la tarea. ¡Gracias!',
+	'DEFAULT_INSTALL_POST'			=> '<t>Este es un mensaje de ejemplo en su instalación phpBB3. Puede borrar este mensaje, este tema e incluso este foro si quiere, ¡ya que todo parece estar funcionando! Pero es buena idea usar la categoría y el foro creados por defecto para copiar los permisos en los futuros foros a crear. Le simplificará la tarea. ¡Gracias!</t>',
 
 	'FORUMS_FIRST_CATEGORY'			=> 'Mi primera categoría',
 	'FORUMS_TEST_FORUM_DESC'		=> 'Es solo para probar el foro.',
