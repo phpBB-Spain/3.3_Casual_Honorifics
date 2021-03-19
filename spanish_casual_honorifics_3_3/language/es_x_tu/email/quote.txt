@@ -14,7 +14,6 @@ Si quieres ver el foro, haz clic en el siguiente enlace:
 {U_FORUM}
 
 Si ya no deseas recibir información sobre las respuestas que te citan, por favor, actualiza la configuración de notificaciones aquí:
-
 {U_NOTIFICATION_SETTINGS}
 
 {EMAIL_SIG}
