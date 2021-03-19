@@ -6,7 +6,6 @@ Has recibido un nuevo mensaje privado de “{AUTHOR_NAME}” en tu cuenta de “
 {SUBJECT}
 
 Puedes ver tu nuevo mensaje visitando el siguiente enlace:
-
 {U_VIEW_MESSAGE}
 
 Has solicitado que se te notifique, recuerda que siempre puedes elegir no ser notificado de nuevos mensajes cambiando esta opción en tu perfil.
