@@ -432,6 +432,7 @@ $lang = array_merge($lang, array(
 	'MESSAGE'	=> 'Mensaje',
 	'MESSAGES'	=> 'Mensajes',
 	'MESSAGES_COUNT'		=> array(
+		0	=> 'mensajes ilimitados',
 		1	=> '%d mensaje',
 		2	=> '%d mensajes',
 	),
@@ -603,7 +604,7 @@ $lang = array_merge($lang, array(
 	'POSTS_UNAPPROVED_FORUM'=> 'Al menos un mensaje en este foro no ha sido aprobado.',
 	'POST_BY_AUTHOR'		=> 'por',
 	'POST_BY_FOE'			=> '<strong>%1$s</strong>, que actualmente está en tu lista de ignorados, crear este mensaje.',
-	'POST_DISPLAY'			=> '%1$sMostrar este mensaje%2$s.',
+	'POST_DISPLAY'			=> 'Mostrar este mensaje',
 	'POST_DAY'				=> '%.2f mensajes por día',
     	'POST_DELETED_ACTION'	=> 'Mensaje borrado:',
     	'POST_DELETED'			=> 'Este mensaje ha sido borrado.',
