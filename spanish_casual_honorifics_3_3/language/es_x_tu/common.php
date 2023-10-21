@@ -169,6 +169,11 @@ $lang = array_merge($lang, array(
 		1	=> '%d carácter',
 		2	=> '%d caracteres',
 	),
+	// Special version to be used when describing ranges e.g. "min x characters and max y characters"
+	'CHARACTERS_XY'			=> array(
+		1	=> '%d carácter',
+		2	=> '%d caracteres',
+	),
 	'COLLAPSE_VIEW'			=> 'Contraer vista',
 	'CLOSE_WINDOW'			=> 'Cerrar ventana',
 	'CODE'					=> 'Código',
